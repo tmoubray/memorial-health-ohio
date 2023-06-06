@@ -1,0 +1,45 @@
+.login h1 a {
+    background-image: url(../images/main-logo.svg?ver=20131202) !important;
+    background-image: none,url(../images/main-logo.svg?ver=20131107) !important;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #444;
+    height: 84px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.3;
+    margin: 0 auto;
+    padding: 0;
+    text-decoration: none;
+    width: 75%;
+    text-indent: -9999px;
+    outline: 0;
+    overflow: hidden;
+    display: block;
+}
+
+
+
+.login #login_error, .login .message, .login .success {
+    border-left: 4px solid #EF7521;
+    padding: 12px;
+    margin-left: 0;
+    margin-bottom: 20px;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+}
+
+
+.login .button-primary {
+    float: right;
+    background:#EF7521;
+    border-color:#EF7521;
+}
+
+
+.login .button-primary:hover {
+    float: right;
+    background:#df752d;
+    border-color:#EF7521;
+}

@@ -1,0 +1,14 @@
+<svg id="Group_6" data-name="Group 6" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_2" data-name="Clip 2" d="M0,0H32V32H0Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(0 0)">
+    <path id="Clip_2-2" data-name="Clip 2" d="M0,0H32V32H0Z" fill="none"/>
+    <g id="Group_3-2" data-name="Group 3" clip-path="url(#clip-path)">
+      <path id="Fill_1" data-name="Fill 1" d="M32,16A16,16,0,1,1,16,0,16,16,0,0,1,32,16" transform="translate(0)" fill="#38b449"/>
+    </g>
+  </g>
+  <path id="Fill_4" data-name="Fill 4" d="M8.442,13.008,19.257,2.193a.865.865,0,0,0,0-1.225L18.543.253a.867.867,0,0,0-1.225,0L6.5,11.069l-4.31-4.31a.867.867,0,0,0-1.225,0l-.714.714a.866.866,0,0,0,0,1.225l4.309,4.31,1.264,1.264a.955.955,0,0,0,1.351,0Z" transform="translate(7.232 8.724)" fill="#fefefe"/>
+</svg>
